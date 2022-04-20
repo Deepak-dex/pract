@@ -1,0 +1,8 @@
+Ping:
+  The Ping tool is used to test whether a particular host is reachable across an IP network. 
+  A Ping measures the time it takes for packets to be sent from the local host to a destination computer and back. 
+  The Ping tool measures and records the round-trip time of the packet and any losses along the way.
+  
+IP scanner:
+  IP scanner enables you to scan your IPs and their allocations through a centralized console. 
+  It maintains consistency and accuracy by continually scanning and updating upon detecting when a new IP is provisioned or decommissioned. 
