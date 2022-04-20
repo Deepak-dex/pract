@@ -1,0 +1,4 @@
+1. Open Wireshark and select your Connection.
+2. Open any http website and add display filter as http.
+3. Right Click on the POST method >> Follow >> TCP stream.
+4. Search for ‘credentials’ in the dialog box. 
