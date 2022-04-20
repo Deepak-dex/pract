@@ -1,0 +1,9 @@
+Steps: 
+1. Install CrypTool from https://www.cryptool.org/en/ct1-downloads. 
+2. Plain Text
+3. To Encrypt Click on Encrypt/Decrypt > Symmetric(modern) > RC4 
+4. Click the number of bits
+5. Click Encrypt.
+6. To Decrypt Again click on Encrypt/Decrypt > Symmetric(modern) > RC4 
+7. Click the number of bits
+8. Click Decrypt.
