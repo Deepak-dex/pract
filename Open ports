@@ -1,0 +1,7 @@
+1st way 
+  netstat 
+    Netstat command displays various network related information such as network connections, routing tables, interface statistics,etc.
+  
+2nd way
+  nmap -open {ipaddress}
+  {dis} like - scans for the open port of the target provided.
